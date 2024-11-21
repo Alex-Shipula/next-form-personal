@@ -18,6 +18,6 @@ Before you begin, ensure you have the following installed on your system:
 Clone this repository to your local machine using Git:
 ```bash
 git clone <https://github.com/Alex-Shipula/project-mbunity.git>
-cd modern-contact-page
+cd project-mbunity-master
 npm install
 npm run dev
